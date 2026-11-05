@@ -1,1 +1,3 @@
-# fundamentals-of-software-engineering
+## Student Info
+- Ініціали: Ш. І. В.
+- Група: 371
